@@ -1,0 +1,64 @@
+
+body {
+    background-image: url('../img/pozadi.jpg');
+}
+
+main{
+    max-width: 200em;
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+header {
+    background-color: red;
+}
+
+p {
+   font-size: 20px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    margin-left: 25em;
+}
+
+h1 {
+    font-size: 9em;
+    color:yellow;
+    font-family: fantasy;
+    
+}
+
+h2 {
+   font-size: 1.9em;
+   text-transform: uppercase;
+   color: #06a; 
+   margin-bottom: 1em;
+   margin-left: 1em;
+   font-weight: 500;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2.8em;
+    color:yellow; 
+    font-weight: 500;
+    padding-bottom: 0.3em;
+    background-color:red;
+    padding: 10px 0 10px 20px;
+}
+
+#rajcata h4 {
+    font-size: 2em;
+    background-color:rgb(165, 236, 98);
+    color:black; 
+    text-align: center;
+    padding: 10px 0 10px 20px;
+    font-weight: 2300;
+}
+
+#rajcata h4:hover {
+    background-color: #3a8;
+}
