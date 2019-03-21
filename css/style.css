@@ -15,14 +15,31 @@ header {
     background-color: red;
 }
 
+footer{
+    background-color: azure;
+    margin-top: 20em;
+    height: 5.4em;
+}
+
 p {
-   font-size: 20px;
+   font-size: 23px;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-img {
-    margin-left: 25em;
+.f {
+    font-size: 100em;
 }
+
+#ovoce p {
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ 
+img {
+    margin-left: 22em;
+}
+
 
 h1 {
     font-size: 9em;
@@ -50,15 +67,20 @@ h3 {
     padding: 10px 0 10px 20px;
 }
 
-#rajcata h4 {
-    font-size: 2em;
+ h4 {
+    font-size: 2.3em;
     background-color:rgb(165, 236, 98);
     color:black; 
     text-align: center;
     padding: 10px 0 10px 20px;
     font-weight: 2300;
 }
-
-#rajcata h4:hover {
-    background-color: #3a8;
+h5 {
+    font-size: 1.7em;
+    background-color: bisque;
+    color:black; 
+    text-align: center;
+    padding: 10px 0 10px 20px;
+    font-weight: 4000;
 }
+
