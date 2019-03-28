@@ -17,8 +17,9 @@ header {
 
 footer{
     background-color: azure;
-    margin-top: 20em;
+    margin-top: 8em;
     height: 5.4em;
+    padding: 5.4em;
 }
 
 p {

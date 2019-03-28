@@ -1,0 +1,6 @@
+var text = {text1 : 'Rajče jedlé, též lilek rajče (Solanum lycopersicum L., 1753) je trvalka bylinného charakteru pěstovaná jako jednoletka. Patří do čeledi lilkovitých. Pochází ze Střední a Jižní Ameriky. Plodem je bobule zvaná rajče, původně rajské jablko, proto se rajče řadí mezi plodovou zeleninu.',
+            text2 : 'Rajčata jsou velmi vhodná jako základ zdravé nebo doplněk či příloha běžné stravy. Vhodná jsou i na různé redukční a očistné diety, neboť mají antioxidační účinky. Podle některých studií působí blahodárně i na problémy s prostatou. Dále jsou rajčata vhodná ve stravě osob s nemocemi srdce, krevního oběhu a poruchami látkové výměny.',
+            text3 : 'Indeterminantní odrůda ze skupiny tzv. indigo rajčat, které se vyznačují tím, že obsahují antokyany ( velmi silný antioxidant). Na osluněné straně se pokožka plodů zbarvuje do intenzivní fialové až černé barvy. Vegetativní části (stonky a listy) mají také fialový nádech. Velikost plodů 60 až 90 g, chuť velmi dobrá.',
+            text4 : 'Kombajn na sklízení rajčat se předvším v Kaliforni,Izraeli,a Austrálii.Kde se pěstuje největší počet takhle sklízených rajčat.Takto sklizená rajčata se většinou používají k výrobě kečupu.Kombajn na sklizeň rajčat byl vynalezen již v roce 1950.',
+            text5 : 'Fialové rajče',
+            text6 : 'Kombajn na rajčata'};
